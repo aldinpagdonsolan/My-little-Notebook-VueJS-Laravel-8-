@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'My Little Notebook Laravel 8',
+    'site_title' => 'My Little Notebook VueJS Laravel 8',
 ];
